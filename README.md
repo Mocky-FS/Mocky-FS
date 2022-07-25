@@ -1,7 +1,7 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<h1>Hello, i'm Arnaud Solier</h1> 
   
 
-### <div align="center">I'm Arnaud, in career transition as JavaScript Developer since 2020 👨‍💻</div>  
+### <div align="center">In career transition as JavaScript Developer since 2020 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Angular Turorial](https://angular.io/tutorial)  
