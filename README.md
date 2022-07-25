@@ -1,7 +1,7 @@
 <h1>Hello, i'm Arnaud Solier</h1> 
   
 
-### <div align="center">In career transition as JavaScript Developer since 2020 👨‍💻</div>  
+### <div align="left">In career transition as JavaScript Developer since 2020 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Angular Turorial](https://angular.io/tutorial)  
@@ -86,12 +86,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mocky-FS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
