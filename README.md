@@ -1,31 +1,15 @@
-### Hi there 👋
-
-<!--
-**Mocky-FS/Mocky-FS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Arnaud !</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 - 🌱 I’m currently learning **TypeScript & Angular**
 
-- 👨‍💻 All of my projects are available at [On construct](On construct)
+- 👨‍💻 All of my projects are available at (On construct)
 
 - 💬 Ask me about **Work with you :)**
 
 - 📫 How to reach me **arnaud.solier@outlook.fr**
 
-- 📄 Know about my experiences [On my Curriculum](On my Curriculum)
+- 📄 Know about my experiences On my Curriculum
 
 - ⚡ Fun fact **I love Munchlax**
 
