@@ -1,6 +1,6 @@
 <h1>Hello, i'm Arnaud Solier</h1> 
   
-### <div align="left">In career transition as JavaScript Developer since 2020 👨‍💻</div>
+### <div align="left">In career transition as JavaScript and PHP Developer since 2020 👨‍💻</div>
 </br>
 <span><img src="https://c.tenor.com/CrlCvvTwSd8AAAAi/peachcat-cat.gif" alt="cat say hello" align="right" ></span>
 
