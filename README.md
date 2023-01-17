@@ -6,10 +6,10 @@
 
   
 
-- 🔭 I’m currently working on [Angular Turorial](https://angular.io/tutorial)  
+- 🔭 I’m currently working on [Laravel](https://laravel.com/)  
   
 
-- 🌱 I’m currently learning TypeScript & Angular + React  
+- 🌱 I’m currently learning Laravel & VueJS / Docker 
   
 
 - ❓ Looking for a professional opportunity around the world  
@@ -84,9 +84,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mocky-FS&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
 
 <br/>  
 
